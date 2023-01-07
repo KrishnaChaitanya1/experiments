@@ -6,4 +6,4 @@ Few of the scripts won't work as these are written solely for my experiments wit
 
 ## Contents
 
-1. [Experiment 1 - Mail Scrapper](.\Experiment%201)
+1. [Experiment 1 - Mail Scrapper](Experiment%201/)
